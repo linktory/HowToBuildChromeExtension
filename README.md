@@ -1,6 +1,8 @@
 # How to build chrome extension
 after coulpe of days web browsing i found some usefull links that help you create and build your first chrome extension
-best links that help you to learn how to create and build chrome extension 
+
+***
+ 
 
 ## tutorials
 
@@ -21,7 +23,7 @@ best links that help you to learn how to create and build chrome extension
 
 ## boilerplates
 
-[awesome !](https://github.com/satendra02/react-chrome-extension)
+- [it is awesome !](https://github.com/satendra02/react-chrome-extension)
 
 ## examples
 
